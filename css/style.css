@@ -19,3 +19,11 @@
 	size:100%;
 	
 }
+#services{
+	background:url("../images/background2.jpg");
+	color:#E9FFFC;
+}
+#contact{
+	background:url("../images/background3.jpg");
+	color:black;
+}
