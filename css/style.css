@@ -5,7 +5,17 @@
 	width:20%;
 }
 #Logo{
-	background-color:green;
-	height:50px;
+	position:relative;
+	background:url("images/Logo.png");
+	height:100px;
 	width:100px;
+}
+#about{
+	background:url("../images/background1.jpg");
+	size:100%;
+}
+#intro{
+	background:url("../images/background0.jpg") no-repeat;
+	size:100%;
+	
 }
